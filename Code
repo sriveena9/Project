@@ -15,12 +15,6 @@ import time
 import dlib
 import cv2
 
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul  5 14:53:20 2018
-
-@author: Abhishek
-"""
 
 API_ENDPOINT = "https://drowsiness-alert-9f12a.firebaseio.com/images.json"
 import pyrebase
